@@ -1,0 +1,88 @@
+/* Reset default margin and padding */
+body, h1, h2, p, div {
+    margin: 0;
+    padding: 0;
+}
+
+/* Apply some basic styling to the page */
+body {
+    font-family: Arial, sans-serif;
+    background-image: url("http://www.pixelstalk.net/wp-content/uploads/2016/08/HD-1920x1080-Anime-Background.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.container {
+    max-width: 960px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: rgba(255, 255, 255, 0.8);
+    border-radius: 10px;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
+}
+
+h1 {
+    text-align: center;
+    margin-bottom: 20px;
+    color: #333;
+}
+
+.anime-list {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 20px;
+}
+
+.anime {
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    padding: 20px;
+    background-color: white;
+    text-align: center;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
+}
+
+.anime:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 8px 10px rgba(0, 0, 0, 0.2);
+}
+
+.anime img {
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 15px;
+    border-radius: 5px;
+    transition: transform 0.3s ease-in-out;
+}
+
+.anime h2 {
+    font-size: 1.2rem;
+    margin-bottom: 10px;
+    color: #333;
+    transition: color 0.3s ease-in-out;
+}
+
+.anime:hover h2 {
+    color: #e74c3c;
+}
+
+.anime p {
+    margin-bottom: 15px;
+    color: #777;
+}
+
+.anime-rating {
+    font-weight: bold;
+    color: #e74c3c;
+}
+
+footer {
+    height: 50px;
+    font-size: 15px;
+    text-align: center;
+    font-weight: bold;
+    padding: 20px;
+    color: #555;
+}

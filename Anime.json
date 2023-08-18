@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "name": "Naruto",
+    "genre": "Action",
+    "imageUrl": "http://4.bp.blogspot.com/-0poD56L7uOo/Tk2NddSzfPI/AAAAAAAAA_4/apOmRKxSlaY/s1600/The-best-top-hd-desktop-naruto-shippuden-wallpaper-naruto-shippuden-wallpapers-hd-18.jpg",
+    "description": "A young ninja with a dream of becoming the strongest ninja and earning the title of Hokage. Follow Naruto's journey as he overcomes challenges and battles powerful foes.",
+    "rating": 4.5
+  },
+  {
+    "id": 2,
+    "name": "One Piece",
+    "genre": "Adventure",
+    "imageUrl": "https://wallpapercave.com/wp/wc1740378.png",
+    "description": "Join Monkey D. Luffy and his crew as they embark on a grand adventure to find the legendary One Piece treasure and become the Pirate King.",
+    "rating": 4.8
+  },
+  {
+    "id": 3,
+    "name": "Demon Slayer",
+    "genre": "Fantasy",
+    "imageUrl": "https://image.pngaaa.com/265/43265-middle.png",
+    "description": "Tanjiro Kamado, a kind-hearted boy, becomes a demon slayer after his family is slaughtered by demons. He seeks revenge and aims to save his sister who turned into a demon.",
+    "rating": 4.7
+  },
+  {
+    "id": 4,
+    "name": "Attack On Titan",
+    "genre": "Action",
+    "imageUrl": "https://getwallpapers.com/wallpaper/full/5/d/5/14451.jpg",
+    "description": "In a world where humanity lives within enormous walled cities to protect themselves from Titans, colossal humanoid creatures, Eren Yeager joins the fight against the Titans.",
+    "rating": 4.9
+  },
+  {
+    "id": 5,
+    "name": "One Punch Man",
+    "genre": "Comedy",
+    "imageUrl": "https://wallpapercave.com/wp/wp5029694.jpg",
+    "description": "Saitama, a hero for fun, can defeat any opponent with a single punch. However, he struggles with boredom due to his overwhelming strength.",
+    "rating": 4.6
+  },
+  {
+    "id": 6,
+    "name": "Jujutsu Kaisen",
+    "genre": "Supernatural",
+    "imageUrl": "https://wallpapercave.com/wp/wp6085068.jpg",
+    "description": "Yuji Itadori becomes a vessel for a cursed object, leading him to join a secret organization to fight curses and protect humanity from supernatural threats.",
+    "rating": 4.4
+  },
+  {
+    "id": 7,
+    "name": "Bleach",
+    "genre": "Supernatural",
+    "imageUrl": "https://3.bp.blogspot.com/-P9g9Za7qpJY/UG465EVVnOI/AAAAAAAAK-M/8Fn5_qFioOE/s1600/Bleach+Wallpapers+4.jpg",
+    "description": "Ichigo Kurosaki gains the abilities of a Soul Reaper and is tasked with protecting humans from evil spirits and guiding the souls of the deceased to the afterlife.",
+    "rating": 4.3
+  },
+  {
+    "id": 8,
+    "name": "Death Note",
+    "genre": "Mystery",
+    "imageUrl": "http://wallpapercave.com/wp/er4khNt.jpg",
+    "description": "Light Yagami discovers a supernatural notebook that allows him to kill anyone by writing the person's name while picturing their face.",
+    "rating": 4.7
+  }
+]
